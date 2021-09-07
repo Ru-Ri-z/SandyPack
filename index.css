@@ -1,0 +1,48 @@
+.text-contacto {
+    color: white;
+}
+
+#header img {
+    width: 80px;
+}
+
+#main .carousel-inner main {
+    max-height: 70vh;
+    object-fit: cover;
+    
+    
+    
+}
+
+.carousel, .carousel-inner > .item > img {
+    width: 25%;
+    height: 10%;
+    margin-top: 40px;
+    margin-bottom: 40px;  
+}
+
+#carousel {
+    position: relative;
+    border-radius: 55px 55px 55px 55px;
+    overflow: hidden;
+    
+}
+
+#carousel .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: white;
+    z-index: 1;
+}
+
+#footer {
+    background: black;
+    
+}
+
+#footer a {
+    color: white;
+}
